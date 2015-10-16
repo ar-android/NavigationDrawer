@@ -1,4 +1,7 @@
 # NavigationDrawer
 Navigation Drawer with Material Design
-<img alt="Android app on Google Play"
-       src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
+
+.. image:: https://raw.githubusercontent.com/ar-android/NavigationDrawer/master/navigation_drawer.png
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
